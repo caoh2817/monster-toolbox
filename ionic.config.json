@@ -1,0 +1,8 @@
+{
+  "name": "monster toolbox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "bb60687a"
+}
